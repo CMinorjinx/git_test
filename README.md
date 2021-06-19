@@ -1,0 +1,1 @@
+This is Isaiah Kim's first git project!
